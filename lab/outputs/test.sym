@@ -1,0 +1,1035 @@
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: y
+		Datatype: integer
+		Mode: cv
+		Offset: 16
+		----------------------
+		Name: z
+		Datatype: integer
+		Mode: cv
+		Offset: 20
+		----------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: m
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_1
+		Datatype: integer
+		Offset: 28
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: T_2
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: T_3
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_4
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_5
+		Datatype: integer
+		Offset: 28
+		------------------------
+		Name: T_6
+		Datatype: integer
+		Offset: 32
+		------------------------
+		Name: T_7
+		Datatype: integer
+		Offset: 36
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: i
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: divides
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: i
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: divides
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 43
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 2
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: y
+		Datatype: integer
+		Mode: cv
+		Offset: 16
+		----------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: T_8
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_9
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_10
+		Datatype: integer
+		Offset: 28
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: i
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: divides
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 43
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: i
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: divides
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 43
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+		-------------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: T_11
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_12
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_13
+		Datatype: integer
+		Offset: 28
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: y
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: sqr
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: y
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: sqr
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 73
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 2
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: T_14
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: T_15
+		Datatype: integer
+		Offset: 20
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: y
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: sqr
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 73
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 79
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: x
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: y
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: sqr
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 73
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: T_16
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_17
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_18
+		Datatype: integer
+		Offset: 28
+		------------------------
+		Name: T_19
+		Datatype: integer
+		Offset: 32
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 79
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 79
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: leap
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 79
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: leap
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 92
+		FormalParameters:
+			- Name: year, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: year
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: counterFunctionCalls
+		------------------------
+		Name: T_20
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: T_21
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_22
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_23
+		Datatype: integer
+		Offset: 28
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 79
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: leap
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 92
+		FormalParameters:
+			- Name: year, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: counterFunctionCalls
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: max3
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 2
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+			- Name: y, Datatype: integer, Mode: cv
+			- Name: z, Datatype: integer, Mode: cv
+		-------------------------
+		Name: fib
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 19
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: isPrime
+		Datatype: integer
+		Framelength: 40
+		StartingQuad: 54
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: quad
+		Datatype: integer
+		Framelength: 44
+		StartingQuad: 79
+		FormalParameters:
+			- Name: x, Datatype: integer, Mode: cv
+		-------------------------
+		Name: leap
+		Datatype: integer
+		Framelength: 36
+		StartingQuad: 92
+		FormalParameters:
+			- Name: year, Datatype: integer, Mode: cv
+		-------------------------
+		Name: i
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: T_24
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_25
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_26
+		Datatype: integer
+		Offset: 28
+		------------------------
+		Name: T_27
+		Datatype: integer
+		Offset: 32
+		------------------------
+		Name: T_28
+		Datatype: integer
+		Offset: 36
+		------------------------
+		Name: T_29
+		Datatype: integer
+		Offset: 40
+		------------------------
+		Name: T_30
+		Datatype: integer
+		Offset: 44
+		------------------------
+		Name: T_31
+		Datatype: integer
+		Offset: 48
+		------------------------
+		Name: T_32
+		Datatype: integer
+		Offset: 52
+		------------------------
+End of Scope

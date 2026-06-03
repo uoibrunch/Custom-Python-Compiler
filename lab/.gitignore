@@ -1,0 +1,16 @@
+# Ignore specific zipped archives
+final.zip
+Intermediate-Symbolic.zip
+Mefrastes.zip
+
+# Ignore specific document files (keeping the PDF version instead)
+Meftrastes.pages
+
+# Ignore orphaned or unnecessary compiler outputs
+symbolTable.sym
+calculations.int
+calculations.sym
+
+# Ignore standard Python cache files (always good practice)
+__pycache__/
+*.pyc

@@ -1,0 +1,181 @@
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 2
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: amount
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: accountBalance
+		------------------------
+		Name: T_1
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: T_2
+		Datatype: integer
+		Offset: 20
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 2
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 2
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+		Name: withdraw
+		Datatype: integer
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 2
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+		Name: withdraw
+		Datatype: integer
+		Framelength: 24
+		StartingQuad: 12
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+SCOPE LEVEL 1
+	Entities:
+		Name: amount
+		Datatype: integer
+		Mode: cv
+		Offset: 12
+		----------------------
+		Name: accountBalance
+		------------------------
+		Name: T_3
+		Datatype: integer
+		Offset: 16
+		------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 2
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+		Name: withdraw
+		Datatype: integer
+		Framelength: 24
+		StartingQuad: 12
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+End of Scope
+==========================NEW VIEW===========================
+SCOPE LEVEL 0
+	Entities:
+		Name: accountBalance
+		Datatype: integer
+		Offset: 12
+		------------------------
+		Name: deposit
+		Datatype: integer
+		Framelength: 28
+		StartingQuad: 2
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+		Name: withdraw
+		Datatype: integer
+		Framelength: 24
+		StartingQuad: 12
+		FormalParameters:
+			- Name: amount, Datatype: integer, Mode: cv
+		-------------------------
+		Name: choice
+		Datatype: integer
+		Offset: 16
+		------------------------
+		Name: amount
+		Datatype: integer
+		Offset: 20
+		------------------------
+		Name: T_4
+		Datatype: integer
+		Offset: 24
+		------------------------
+		Name: T_5
+		Datatype: integer
+		Offset: 28
+		------------------------
+		Name: T_6
+		Datatype: integer
+		Offset: 32
+		------------------------
+		Name: T_7
+		Datatype: integer
+		Offset: 36
+		------------------------
+End of Scope
