@@ -6,13 +6,13 @@ A fully custom, multi-pass compiler built entirely in Python that translates a h
 This project encompasses the entire compilation pipeline—from raw source code parsing to intermediate representation, scope management, and final machine-level code generation tailored for the RARS simulator. It was built to demonstrate a deep understanding of computer science fundamentals, including finite state automata, recursive-descent parsing based on EBNF grammars, intermediate code backpatching, and stack-based memory management.
 
 ## Lexical & Syntactic Rules
-[cite_start]CutePy is heavily inspired by Python but features unique syntax requirements, strict scoping, and is strictly typed (integer only)[cite: 1669, 1673, 1728, 2041, 2067]. The compiler enforces the following language specifications:
+CutePy is heavily inspired by Python but features unique syntax requirements, strict scoping, and is strictly typed (integer only). The compiler enforces the following language specifications:
 
-* [cite_start]**Lexical Constraints:** Identifiers are limited to 30 characters[cite: 1698, 2063]. [cite_start]The language only supports integer data types within a strict 16-bit range (`-32767` to `32767`)[cite: 2068]. 
-* [cite_start]**Custom Block Syntax:** Instead of relying on indentation, code blocks for functions and control structures are enclosed in `#{` and `#}`[cite: 1691, 1759, 1760].
-* [cite_start]**Declarations:** Variables must be explicitly declared using `#int` [cite: 2068] [cite_start]for local scope or `global` [cite: 2134] for global scope. [cite_start]The main program is distinctly declared with `#def main`[cite: 1635].
-* [cite_start]**Functions & Scoping:** Supports nested local functions with Pascal-like scoping rules[cite: 1794, 2128]. [cite_start]Parameters are passed strictly by value[cite: 1802].
-* [cite_start]**Control Flow:** Fully supports `if-elif-else` and `while` structures [cite: 2088, 2091, 2101][cite_start], relying on a recursive-descent parser to handle operator precedence (e.g., `not`, `*`, `+`, `<`, `and`, `or`)[cite: 2073, 2074, 2077, 2078, 2079, 2080].
+* **Lexical Constraints:** Identifiers are limited to 30 characters. The language only supports integer data types within a strict 16-bit range (`-32767` to `32767`). 
+* **Custom Block Syntax:** Instead of relying on indentation, code blocks for functions and control structures are enclosed in `#{` and `#}`.
+* **Declarations:** Variables must be explicitly declared using `#int` for local scope or `global` for global scope. The main program is distinctly declared with `#def main`.
+* **Functions & Scoping:** Supports nested local functions with Pascal-like scoping rules. Parameters are passed strictly by value.
+* **Control Flow:** Fully supports `if-elif-else` and `while` structures, relying on a recursive-descent parser to handle operator precedence (e.g., `not`, `*`, `+`, `<`, `and`, `or`).
 
 ## Architecture & Compilation Pipeline
 
